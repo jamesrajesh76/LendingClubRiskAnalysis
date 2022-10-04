@@ -9,18 +9,18 @@
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
-- Customer Finance Co wants to build its portfolio and risk assessment to understand the driving factors behind loan default.
 - What is the background of your project?
-    Customer Finance Co wants to build its portfolio and risk assessment to understand the driving factors behind loan default.
-- What is the business probem that your project is trying to solve?
-    Customer Finance Co wants to build its portfolio and risk assessment to understand the driving factors behind loan default.
+    Lending Club wants to build its portfolio and risk assessment to understand the driving factors behind loan default.
+- What is the business problem that your project is trying to solve?
+    Understand the driving factors behind loan default.
+	Find ways to improve profit by deriving the factors with the below 2 scenarios.
     	If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
         If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company 
 
         Risk Analytics: Solution is aimed at identify strong indicators for Credit loss
 
 - What is the dataset that is being used?
-    2007 to 2011 loan details
+    Borrower details from 2007 to 2011 with details like Loan Amount, Funded Amount, Delinquincy details, Borrower employment details like annual income, employed years etc.
 
 ## Conclusions
 - Conclusion 1 from the analysis
